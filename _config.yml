@@ -1,0 +1,28 @@
+name: vonwong
+favicon: null
+layout_spectrum: 0.3214465915225446
+typography_spectrum: 0.8514950987882912
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.29706575092859566
+  lightness: 0.3801842010580003
+  saturation: 0.9791198226157576
+  rhythmicContrast: 0.3961431817151606
+purpose: []
